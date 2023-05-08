@@ -14,5 +14,5 @@ The above requirement is the end goal of the project excercise. But the project 
 
 1. **Version 1**: 
   * Make a python module that has hard-coded values for INR to USD and USD to INR conversion. Feel free to add as many other combinations of currencies that you want. 
-  * The module must have a function called convert that takes in two string parameters indicating `from` and `to` values of the currency to exchange and a non-negative integer `value` of the amount to be converted.
+  * The module must have a function called convert that takes in two string parameters indicating `from` and `to` values of the currency to exchange and a non-negative floar `value` of the amount to be converted.
   * Return the converted value(`float`) along with the rate of conversion(`float`)
